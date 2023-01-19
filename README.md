@@ -2,7 +2,7 @@
 
 its simple wordgame assembled by c++.
 
-Main Scene
+# Main Scene
 
 press s : start game.
 
@@ -10,7 +10,7 @@ press s : start game.
 press q : quit game.
 
 
-Game Scene
+# Game Scene
 
 
 input qq for going back main scene.
