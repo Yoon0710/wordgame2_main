@@ -2,6 +2,10 @@
 
 its simple wordgame assembled by c++.
 
+# Requirement
+
+- vs or something(Dev-C++..etc)
+
 # Main Scene
 
 press s : start game.
